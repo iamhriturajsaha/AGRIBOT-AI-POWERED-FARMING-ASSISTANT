@@ -45,41 +45,41 @@ Agriculture is central to global food security, yet farmers routinely face decis
 
 Predicts the most suitable crop to grow based on soil nutrients and environmental conditions.
 
-**Inputs -** Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, Rainfall.
+- **Inputs -** Nitrogen (N), Phosphorus (P), Potassium (K), Temperature, Humidity, pH, Rainfall.
 
-**Pipeline -** Data preprocessing → Feature scaling → Label encoding → Model prediction.
+- **Pipeline -** Data preprocessing → Feature scaling → Label encoding → Model prediction.
 
-**Saved artifacts -** `crop_recommendation_model.pkl`, `crop_scaler.pkl`, `crop_label_encoder.pkl`
+- **Saved artifacts -** `crop_recommendation_model.pkl`, `crop_scaler.pkl`, `crop_label_encoder.pkl`
 
 ### 2. Crop Yield Prediction
 
 Forecasts expected crop production using historical agricultural datasets.
 
-**Inputs -** Crop type, State, Season, Cultivation area.
+- **Inputs -** Crop type, State, Season, Cultivation area.
 
-**Pipeline -** Data cleaning → Feature engineering → Categorical encoding → Model prediction.
+- **Pipeline -** Data cleaning → Feature engineering → Categorical encoding → Model prediction.
 
-**Saved artifacts -** `yield_prediction_model.pkl`, `yield_feature_columns.pkl`
+- **Saved artifacts -** `yield_prediction_model.pkl`, `yield_feature_columns.pkl`
 
 ### 3. Plant Disease Detection
 
 Uses a Convolutional Neural Network (CNN) to classify tomato leaf diseases from uploaded images.
 
-**Supported disease classes -**
-- Tomato Leaf Mold.
-- Tomato Mosaic Virus.
-- Early Blight.
-- Late Blight.
-- Healthy Leaf.
-- Bacterial Spot.
-- Septoria Keaf Spot.
-- Spider Mites.
-- Target Spot.
-- Yellow Leaf Curl Virus.
+- **Supported disease classes -**
+  - Tomato Leaf Mold.
+  - Tomato Mosaic Virus.
+  - Early Blight.
+  - Late Blight.
+  - Healthy Leaf.
+  - Bacterial Spot.
+  - Septoria Keaf Spot.
+  - Spider Mites.
+  - Target Spot.
+  - Yellow Leaf Curl Virus.
 
-**Pipeline -** Image upload → Preprocessing → Model inference → Disease classification.
+- **Pipeline -** Image upload → Preprocessing → Model inference → Disease classification.
 
-**Saved artifacts -** `best_tomato_model.h5`, `tomato_disease_model.keras`
+- **Saved artifacts -** `best_tomato_model.h5`, `tomato_disease_model.keras`
 
 ## Datasets
 
@@ -102,10 +102,8 @@ cd AGRIBOT-AI-POWERED-FARMING-ASSISTANT
 
 ```bash
 python -m venv venv
-
 # Windows
 venv\Scripts\activate
-
 # Linux / macOS
 source venv/bin/activate
 ```
