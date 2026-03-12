@@ -6,6 +6,10 @@ An intelligent agricultural decision support system that helps farmers make data
 
 Agriculture is central to global food security, yet farmers routinely face decisions without adequate data — which crop to plant, how much yield to expect or whether a plant is diseased. AgriBot addresses these challenges by integrating three AI-powered modules into a single, easy-to-use interface.
 
+## Project Demo
+
+[![Watch the video](https://img.youtube.com/vi/e_DR1fe7gVI/0.jpg)](https://youtu.be/e_DR1fe7gVI)
+
 **What AgriBot can do -**
 
 - Recommend the most suitable crop based on soil and climate conditions.
@@ -139,3 +143,4 @@ streamlit run agribot_app.py
 - Cloud deployment (AWS / GCP / Azure).
 
 *Built to demonstrate the practical application of Machine Learning and Deep Learning in precision agriculture.*
+
