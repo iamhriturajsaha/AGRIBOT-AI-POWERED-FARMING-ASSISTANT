@@ -1,0 +1,11 @@
+django
+djangorestframework
+django-cors-headers
+python-dotenv
+djangorestframework-simplejwt
+tensorflow
+h5py
+numpy
+opencv-python
+openai
+pillow
