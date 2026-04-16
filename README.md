@@ -30,6 +30,11 @@ This project has three versions -
   <img src="Cyberpunk Version/Images/4.png" alt="4" width="1000"/><br>
   <img src="Cyberpunk Version/Images/5.png" alt="5" width="1000"/><br>
   <img src="Cyberpunk Version/Images/6.png" alt="6" width="1000"/><br>
+  <img src="Cyberpunk Version/Images/7.png" alt="7" width="1000"/><br>
+  <img src="Cyberpunk Version/Images/8.png" alt="8" width="1000"/><br>
+  <img src="Cyberpunk Version/Images/9.png" alt="9" width="1000"/><br>
+  <img src="Cyberpunk Version/Images/10.png" alt="10" width="1000"/><br>
+  <img src="Cyberpunk Version/Images/11.png" alt="11" width="1000"/><br>
 </p>
 
 ## 🧠 Corporate-ready full-stack AI platform 
@@ -42,6 +47,9 @@ This project has three versions -
   <img src="Corporate Version/Images/6.png" alt="6" width="1000"/><br>
   <img src="Corporate Version/Images/7.png" alt="7" width="1000"/><br>
   <img src="Corporate Version/Images/8.png" alt="8" width="1000"/><br>
+  <img src="Corporate Version/Images/9.png" alt="9" width="1000"/><br>
+  <img src="Corporate Version/Images/10.png" alt="10" width="1000"/><br>
+  <img src="Corporate Version/Images/11.png" alt="11" width="1000"/><br>
 </p>
 
 ## ✨ Core Capabilities
