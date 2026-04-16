@@ -13,7 +13,7 @@ AgriBot is a multi-modal, AI-powered agricultural advisory system that integrate
 It is designed as a scalable decision-support system for modern agriculture, capable of operating across different interfaces and deployment environments.
 
 This project has three versions -
-## 📊 Streamlit-based ML system
+## 📊 STREAMLIT ML SYSTEM
 <p align="center">
   <img src="Streamlit Version/Images/1.png" alt="1" width="1000"/><br>
   <img src="Streamlit Version/Images/2.png" alt="2" width="1000"/><br>
@@ -22,7 +22,7 @@ This project has three versions -
   <img src="Streamlit Version/Images/5.png" alt="5" width="1000"/><br>
 </p>
 
-## 🌌 Cyberpunk full-stack system
+## 🌌 CYBERPUNK FULL-STACK SYSTEM
 <p align="center">
   <img src="Cyberpunk Version/Images/1.png" alt="1" width="1000"/><br>
   <img src="Cyberpunk Version/Images/2.png" alt="2" width="1000"/><br>
@@ -37,7 +37,7 @@ This project has three versions -
   <img src="Cyberpunk Version/Images/11.png" alt="11" width="1000"/><br>
 </p>
 
-## 🧠 Corporate-ready full-stack AI platform 
+## 🧠 CORPORATE FULL-STACK SYSTEM
 <p align="center">
   <img src="Corporate Version/Images/1.png" alt="1" width="1000"/><br>
   <img src="Corporate Version/Images/2.png" alt="2" width="1000"/><br>
